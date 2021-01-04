@@ -1,24 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import { Router, Route, Switch } from "react-router-dom";
+import "./App.css";
+import StreamList from "./pages/StreamList";
+import TopHeader from "./components/TopHeader";
+import BottomHeader from "./components/BottomHeader";
+import Footer from "./components/Footer";
+import history from "./history";
+import StreamCategory from "./pages/StreamCategory";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router history={history}>
+      <div className="App">
+        <TopHeader />
+        <BottomHeader title="Popular Title" />
+        <div className="container">
+          <Switch>
+            <Route path="/" exact component={StreamCategory} />
+            <Route path="/category" exact component={StreamCategory} />
+            <Route path="/list/:type" exact component={StreamList} />
+          </Switch>
+        </div>
+        <Footer />
+      </div>
+    </Router>
   );
 }
 

@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Kool-Kanya-Assignment/static/css/main.5dc69edb.chunk.css",
+    "main.js": "/Kool-Kanya-Assignment/static/js/main.ac3b5324.chunk.js",
+    "main.js.map": "/Kool-Kanya-Assignment/static/js/main.ac3b5324.chunk.js.map",
+    "runtime-main.js": "/Kool-Kanya-Assignment/static/js/runtime-main.fb509cc6.js",
+    "runtime-main.js.map": "/Kool-Kanya-Assignment/static/js/runtime-main.fb509cc6.js.map",
+    "static/js/2.3b4af383.chunk.js": "/Kool-Kanya-Assignment/static/js/2.3b4af383.chunk.js",
+    "static/js/2.3b4af383.chunk.js.map": "/Kool-Kanya-Assignment/static/js/2.3b4af383.chunk.js.map",
+    "static/js/3.60ab3b32.chunk.js": "/Kool-Kanya-Assignment/static/js/3.60ab3b32.chunk.js",
+    "static/js/3.60ab3b32.chunk.js.map": "/Kool-Kanya-Assignment/static/js/3.60ab3b32.chunk.js.map",
+    "index.html": "/Kool-Kanya-Assignment/index.html",
+    "static/css/main.5dc69edb.chunk.css.map": "/Kool-Kanya-Assignment/static/css/main.5dc69edb.chunk.css.map",
+    "static/js/2.3b4af383.chunk.js.LICENSE.txt": "/Kool-Kanya-Assignment/static/js/2.3b4af383.chunk.js.LICENSE.txt",
+    "static/media/app-store.709c1ac0.svg": "/Kool-Kanya-Assignment/static/media/app-store.709c1ac0.svg",
+    "static/media/facebook-white.dec54804.svg": "/Kool-Kanya-Assignment/static/media/facebook-white.dec54804.svg",
+    "static/media/instagram-white.43bb1c81.svg": "/Kool-Kanya-Assignment/static/media/instagram-white.43bb1c81.svg",
+    "static/media/play-store.73d72a5f.svg": "/Kool-Kanya-Assignment/static/media/play-store.73d72a5f.svg",
+    "static/media/twitter-white.d40d391a.svg": "/Kool-Kanya-Assignment/static/media/twitter-white.d40d391a.svg",
+    "static/media/windows-store.6c6aaa1e.svg": "/Kool-Kanya-Assignment/static/media/windows-store.6c6aaa1e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb509cc6.js",
+    "static/js/2.3b4af383.chunk.js",
+    "static/css/main.5dc69edb.chunk.css",
+    "static/js/main.ac3b5324.chunk.js"
+  ]
+}

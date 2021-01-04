@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Kool-Kanya-Assignment/static/css/main.5dc69edb.chunk.css",
-    "main.js": "/Kool-Kanya-Assignment/static/js/main.ac3b5324.chunk.js",
-    "main.js.map": "/Kool-Kanya-Assignment/static/js/main.ac3b5324.chunk.js.map",
+    "main.js": "/Kool-Kanya-Assignment/static/js/main.72eb8c02.chunk.js",
+    "main.js.map": "/Kool-Kanya-Assignment/static/js/main.72eb8c02.chunk.js.map",
     "runtime-main.js": "/Kool-Kanya-Assignment/static/js/runtime-main.fb509cc6.js",
     "runtime-main.js.map": "/Kool-Kanya-Assignment/static/js/runtime-main.fb509cc6.js.map",
     "static/js/2.3b4af383.chunk.js": "/Kool-Kanya-Assignment/static/js/2.3b4af383.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.fb509cc6.js",
     "static/js/2.3b4af383.chunk.js",
     "static/css/main.5dc69edb.chunk.css",
-    "static/js/main.ac3b5324.chunk.js"
+    "static/js/main.72eb8c02.chunk.js"
   ]
 }
